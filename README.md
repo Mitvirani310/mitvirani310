@@ -53,6 +53,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mit-virani/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mitvirani310)
 
----
-
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
