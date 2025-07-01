@@ -6,7 +6,7 @@
 
 ## 🧑‍🎓 About Me
 
-- 🎓 I'm a 2024 graduate from Dharmsinh Desai University with a focus in Computer Engineering.
+- 🎓 I'm a 2024 graduate from Dharmsinh Desai University in Computer Engineering.
 - 🧠 I love working on real-world projects that challenge me to grow.
 - 💼 Currently exploring advanced topics like AI integration, microservices, and scalable architectures.
 - 🗣️ I enjoy collaborating, contributing to open-source, and sharing what I learn.
